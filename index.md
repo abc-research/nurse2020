@@ -2,7 +2,6 @@
 title: Second Nurse Care Activity Recognition Challenge
 feature_text: |
   ## Second Nurse Care Activity Recognition Challenge
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "assets/challengeimage.png"
 excerpt: "Second Nurse Care Activity Recognition Challenge by ABC Series"
 layout: page
