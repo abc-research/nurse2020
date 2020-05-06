@@ -1,10 +1,19 @@
-# Second Nurse Care Activity Recognition Challenge
+# Second Nurse Care Activity Recognition Challenge Website
 
-Part of the ABC Series [acb-research.github.io](http://abc-research.github.io)
+## From lab to field
 
-Data available: 
+This is the repository for the [website](abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](sozolab.jp)
 
-Registration: 
+# IMPORTANT DATES
 
-Result submission:
+- Start of competition:                  May 1, 2020
 
+- Registration closes:                     May 30, 2020
+
+- Test data sent to participants:  May 30, 2020
+
+- Submission of results:                 July 5, 2020
+
+- Submission of paper:                  July 5, 2020
+
+- Paper results               :                July 18, 2020
