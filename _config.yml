@@ -81,8 +81,8 @@ lang: en-GB # Set the site language
 title: "Activity Recognition Challenge" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Nurse Care Activity Recognition Challenge: From lab to real life" # Site description and default description, also used in jekyll-seo-tag
-url: "https://abc-research.github.io/nurse2020" # Site url, also used in jekyll-seo-tag
-baseurl: "https://abc-research.github.io/nurse2020"
+url: "https://abc-research.github.io/nurse2020/" # Site url, also used in jekyll-seo-tag
+baseurl: "https://abc-research.github.io/nurse2020/"
 repo: "https://github.com/abc-research/nurse2020/"
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
