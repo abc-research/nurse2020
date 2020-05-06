@@ -38,12 +38,10 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+#jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+author: ABC Research # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: ABC Conference # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/ABC_Conference
     - https://www.facebook.com/ActivityBehaviorComputingConference/
@@ -84,7 +82,7 @@ title: "Activity Recognition Challenge" # Site name or title, also used in jekyl
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Nurse Care Activity Recognition Challenge: From lab to real life" # Site description and default description, also used in jekyll-seo-tag
 url: "https://abc-research.github.io/nurse2020" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://abc-research.github.io/nurse2020"
 repo: "https://github.com/abc-research/nurse2020/"
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
