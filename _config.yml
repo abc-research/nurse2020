@@ -109,7 +109,8 @@ author:
   bio              : ""
   location         : "Japan"
   email            : "hasc.nurse.challenge@gmail.com"
-  - label: "Email"
+  links:
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:hasc.nurse.challenge@gmail.com
     - label: "Website"
@@ -127,7 +128,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    
 
 # Site Footer
 footer:
