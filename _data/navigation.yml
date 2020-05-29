@@ -1,7 +1,18 @@
 # main links
 main:
+  
+  - title: "Challenge"
+    url: /learn
   - title: "Rules"
     url: /rules
+  - title: "Paper"
+    url: /paper  
+  - title: "FAQ"
+    url: /faq
+  - title: "Organizers"
+    url: /organizers
+
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
