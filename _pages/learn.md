@@ -12,6 +12,7 @@ All participants may use the data free of charge.
 
 ## Evaluation
 Submissions will be evaluated by the Accuracy using following formula
+
 ![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples})
 
 ## Prizes
@@ -25,7 +26,8 @@ All participants are encouraged to participate in the Workshop to share details 
 
 ## Previously Organized Challenges
 [Nurse Care Activity Recognition Challenge (2019)](https://hasc-nurse-challenge.github.io/)
+
 [Cooking Activity Recognition Challenge (2019)](https://abc-research.github.io/cook2020/)
 
 ## Contact us
-abc at sozolab.jp
+abc@sozolab.jp
