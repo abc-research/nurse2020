@@ -29,5 +29,5 @@ Participants are required to submit a paper detailing their solution. The paper 
 - The accepted papers will be published in the UbiComp/ISWC 2020 adjunct proceedings, which will be included in the ACM Digital Library.
 
 If you have any problem with submission through the form please contact us at
-abc at sozolab.jp for instructions.
+abc@sozolab.jp for instructions.
 
