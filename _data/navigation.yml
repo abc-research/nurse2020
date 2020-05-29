@@ -5,8 +5,10 @@ main:
     url: /learn
   - title: "Rules"
     url: /rules
+  - title: "Submission"
+    url: /submission 
   - title: "Paper"
-    url: /paper  
+    url: /paper 
   - title: "FAQ"
     url: /faq
   - title: "Organizers"
