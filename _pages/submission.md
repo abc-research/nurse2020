@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /submit/
-title: "How to join"
+permalink: /submission/
+title: "How to Submit Results"
 excerpt: "Join the Challenge"
 last_modified_at: 2020-05-30T15:15:09-04:00
 toc: false
