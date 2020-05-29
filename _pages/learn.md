@@ -7,12 +7,12 @@ date: 2020-05-30T00:00:00+09:00
 
 In this challenge, participants will create methods for recognizing 12 activities conducted by nurses in both lab and in real-life settings. In real world, there is high chance of getting missing labels during experiments since users are busy at work.  The main challenge is leveraging laboratory data to improve models in real-life. Training data consists of data collected in both settings but test data consists of data only from the real field (same users as training data).
 
-##Data use
+## Data use
 All participants may use the data free of charge.
 
 ## Evaluation
 Submissions will be evaluated by the Accuracy using following formula
-![equation](Correctly predicted samples/All samples).
+[equation](Correctly predicted samples/All samples).
 
 
 ## Prizes
