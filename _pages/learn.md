@@ -12,7 +12,7 @@ All participants may use the data free of charge.
 
 ## Evaluation
 Submissions will be evaluated by the Accuracy using following formula
-![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples})
 
 ## Prizes
 The winner (one team representative) will be invited to our installations in Kitakyushu, Japan.
