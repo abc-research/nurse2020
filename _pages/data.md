@@ -11,9 +11,9 @@ The dataset consists of care activities that nurses do in the Care facility. The
   <li>Position change</li>
 </ul>
 <p float="left">
-  <img src="/nurse2020/assets/1.png" width="300" />
-  <img src="/nurse2020/assets/2.png" width="300" /> 
-  <img src="/nurse2020/assets/3.png" width="300" />
+  <img src="/nurse2020/assets/1.png" width="200" />
+  <img src="/nurse2020/assets/2.png" width="200" /> 
+  <img src="/nurse2020/assets/3.png" width="200" />
 </p>
 This activities further divided into several categories as shown in the table below:
 ![activity list](/nurse2020/assets/actList.PNG)
