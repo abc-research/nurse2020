@@ -10,6 +10,11 @@ The dataset consists of care activities that nurses do in the Care facility. The
   <li>Assistance in Transfer</li>
   <li>Position change</li>
 </ul>
+<p float="left">
+  <img src="/nurse2020/assets/1.png" width="100" />
+  <img src="/nurse2020/assets/2.png" width="100" /> 
+  <img src="/nurse2020/assets/3.png" width="100" />
+</p>
 ![mobility](/nurse2020/assets/1.png =76x50)  ![transfer](/nurse2020/assets/2.png =76x50) ![position](/nurse2020/assets/3.png =76x50)
 This activities further divided into several categories as shown in the table below:
 ![activity list](/nurse2020/assets/actList.PNG)
