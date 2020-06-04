@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Data Description
-permalink: /data_description/
+permalink: /data/
 date: 2020-01-08T00:00:00+09:00
 ---
 The dataset consists of care activities that nurses do in the Care facility. The activities can be categorized in 3 principle types:
