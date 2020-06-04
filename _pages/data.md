@@ -18,7 +18,7 @@ The data was collected in an experiment lab and in the real field. The lab data 
   <li><b>Position of the Mobile phone:</b> Attached in right arm using armband</li>
   <li><b>Sampling rate:</b> 60 Hz</li>
   <li><b>Preprocessing:</b> No preprocessing method is applied on this data</li>
-  <li><b>Training data:</b> ![Download the training data](https://ieee-dataport.org/open-access/nurse-care-activities-datasets-laboratory-and-real-field)</li>
+  <li><b>Training data:</b> <a href = "https://ieee-dataport.org/open-access/nurse-care-activities-datasets-laboratory-and-real-field">Download the training data</a></li>
   <li><b>Testing data:</b> will be sent to the registered participants later</li>
 </ul>
 
