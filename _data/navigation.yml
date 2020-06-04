@@ -3,6 +3,8 @@ main:
   
   - title: "Challenge"
     url: /learn
+  - title: "Data"
+    url: /data
   - title: "Rules"
     url: /rules
   - title: "Submission"
