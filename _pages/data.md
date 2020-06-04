@@ -10,11 +10,7 @@ The dataset consists of care activities that nurses do in the Care facility. The
   <li>Assistance in Transfer</li>
   <li>Position change</li>
 </ul>
-<p float="left">
-  <img src="/nurse2020/assets/1.png" width="200" />
-  <img src="/nurse2020/assets/2.png" width="200" /> 
-  <img src="/nurse2020/assets/3.png" width="200" />
-</p>
+<img src="/nurse2020/assets/11.png" width="200" />
 This activities further divided into several categories as shown in the table below:
 ![activity list](/nurse2020/assets/actList.PNG)
 The data was collected in an experiment lab and in the real field. The lab data was collected in the Smart Life Care Unit of the Kyushu Institute of Technology in Japan. In this experiment, 2 subjects participated who are professional nurses. To collect the data accelerometer sensor in Mobile phone and motion capture was used. But we are opening only the mobile phone accelerometer data for this challenge. For the real field data, it was collected in a Care Facility in Japan. Data collection was done using mobile phone accelerometer and 47 subjects participated in this experiment. We are opening data of 6 nurses for training and 3 nurses for testing in this challenge. 
