@@ -7,7 +7,7 @@ date: 2020-05-13T00:00:00+09:00
 
 - The challenge is open to students (undergraduate, graduate, doctoral), researchers and practitioners. 
 
-- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 15, 2020
+- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 25, 2020
 
 
 - Teams may have 1 to 20 members. 
