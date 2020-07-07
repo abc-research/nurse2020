@@ -22,7 +22,7 @@ Participants are required to submit a paper detailing their solution. The paper 
 - The paper should not exceed 6 pages.
 - ACM requires all UbiComp/ISWC 2020 submissions to use the ACM SIGCHI Master Article template with 2 columns. This applies to all submissions including adjunct proceedings (i.e. for UbiComp/ISWC workshops). You can find the template and more info at TEMPLATES ISWC/UBICOMP2020.
 - Submissions do not need to be anonymous.
-- Submit your papers to https://new.precisionconference.com/submissions (select SIGCHI -> UbiComp/ISWC 2020 -> UbiComp/ISWC 2020 Workshop: HASCA, and push Go button).
+- Submit your papers to https://new.precisionconference.com/submissions (select SIGCHI -> UbiComp/ISWC 2020 -> UbiComp/ISWC 2020 Workshop: HASCA-NurseChallenge, and push Go button).
 
 ## REVIEW & PUBLICATION
 - All publications will be peer reviewed together with their contribution to the topic of the workshop.
