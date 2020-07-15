@@ -14,7 +14,6 @@ This challenge is organized by [Sozolab](https://sozolab.jp/).
 <li>Tahera Hossain</li>
 <li>Tsuyoshi Okita</li>
 <li>Sozo Inoue</li>
-<\ul>
 
 ## Lab Information
 Sozo Inoue Lab, Graduate School of Life Science and Systems Eneineering, Kyushu Institute of Technology.
