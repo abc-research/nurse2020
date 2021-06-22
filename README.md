@@ -2,7 +2,7 @@
 
 ## From lab to field
 
-This is the repository for the [website](abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](sozolab.jp)
+This is the repository for the [website](https://abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](sozolab.jp)
 
 # IMPORTANT DATES
 
